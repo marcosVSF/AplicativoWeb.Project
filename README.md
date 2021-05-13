@@ -1,15 +1,15 @@
 # Projeto integrador
-Projeto solicitado pelo professor Marcos Dias, referente a aula de Aplicativos Web do curso de Licenciatura em Computação. 
+Projeto solicitado pelo professor Marcos Dias, referente a aula de Aplicativos Web do curso de Licenciatura em Computação, para o desenvolvimento de formulário. 
 
 ## Objetivo
-Este projeto tem o intuito de mostra algumas característica, tradição da cidade de Santa Rosa do Tocantins. o projeto HTM permitirá a novos visitante do Github a conhecer um poco sobre a cidade.
+Este projeto permite que o usuario conheça um pouco sobre a cultura da cidade e caso queira efetue o Login sendo assin  disponibilize seus dados através de um formulário,o projeto HTML permitirá que os usuários do Github conhecer e efetuar o Login de maneira fácil, pratico e rápido.
 
 ## Tecnologia ultilizadas
-Foi ultizado o acoplamento de diversas páginas como do youtube e instagram.
+Foi ultizado diversas tags todas de suma importancia, além disso foi emcorporado a pagina html a lingugem css e javascript, vale ressaltar que foi ultilizado a pratica do css in line.
 
 #### Autor
 MARCOS VINICIUS DE SALES FERREIRA.
 
 
-##### informação importante!
-A página de "Noticia" infelismente não conseguir finalizar dentro do praso estimado ficou faltando alguns retoques importantes.
+##### Informação adicional!
+A página principal "Projeto" quando usado no zoom 175 em diante a imagem começa a ficar larga. 
